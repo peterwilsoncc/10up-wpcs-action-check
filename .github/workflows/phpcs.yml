@@ -1,5 +1,7 @@
 name: WPCS check
 
+on: push
+
 jobs:
   phpcs:
       name: VIPCS
